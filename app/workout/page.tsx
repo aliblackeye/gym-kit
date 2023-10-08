@@ -13,7 +13,7 @@ import WorkoutCard from './_partials/WorkoutCard'
 import Button from '@/components/Button'
 
 // Import Icons
-import { AiOutlinePlus } from 'react-icons/ai'
+import { AiOutlinePlus,AiOutlineEdit } from 'react-icons/ai'
 
 // Styles
 import styles from './styles.module.css'
@@ -58,7 +58,7 @@ export default function Workout() {
                     status='info'
                   />
                   <Button
-                    icon={<AiOutlinePlus />}
+                    icon={<AiOutlineEdit />}
                     block={true}
                     label='Antrenman Düzenle'
                     status='secondary'
