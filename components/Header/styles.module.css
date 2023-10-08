@@ -1,0 +1,41 @@
+#header {
+	background-color: black;
+	color: white;
+    margin-bottom: 20px;
+}
+
+#header__container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 10px 20px;
+}
+
+.brand {
+	font-size: 24px;
+	font-weight: 700;
+	color: gold;
+}
+
+.links {
+	display: flex;
+	gap: 20px;
+}
+
+.link {
+}
+
+.active {
+	color: gold;
+}
+
+
+
+@media (max-width: 600px) {
+	#header__container {
+		flex-direction: column;
+		justify-content: center;
+		gap: 10px;
+	}
+		
+}
