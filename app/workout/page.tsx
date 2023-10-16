@@ -13,7 +13,7 @@ import WorkoutCard from './_partials/WorkoutCard'
 import Button from '@/components/Button'
 
 // Import Icons
-import { AiOutlinePlus,AiOutlineEdit } from 'react-icons/ai'
+import { AiOutlinePlus, AiOutlineEdit } from 'react-icons/ai'
 
 // Styles
 import styles from './styles.module.css'
@@ -79,15 +79,17 @@ export default function Workout() {
 
               <section id={styles.content}>
                 {/* WORKOUT CARDS */}
-                {workouts?.find(w => w.id === selectedProgramId)?.exercises.map((workout: any, index: number) => (
+                {workouts?.find(w => w.id === selectedProgramId)?.exercises?.map((workout: any, index: number) => (
                   <div key={index} className={styles.workoutDay}>
                     <h2>{workout?.day}. Gün</h2>
                     <ul className={styles.workoutCards}>
-                      {workout?.exercises?.map((exercise: any, index: number) => (
-                        <li key={index}>
-                          <WorkoutCard title={exercise.title} image={exercise.image} video={exercise.video} />
-                        </li>
-                      ))}
+                      {workout?.exercises?.map((exercise: any, index: number) => {
+                        console.log(exercise);
+                        return (<li key={index}>
+                          <WorkoutCard exercise={exercise} />
+                        </li>)
+                      }
+                      )}
                     </ul>
                   </div>
                 ))}

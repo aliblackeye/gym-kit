@@ -9,32 +9,38 @@
                     {
                         "title": "Dumbbell Goblet Squat",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2023/01/Dumbbell-Goblet-Squat.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Standing Dumbbell Shoulder Press",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2023/09/Standing-Dumbbell-Overhead-Press.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Dumbbell Row",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Row.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Push Up",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Push-Up.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Dumbbell Curl",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2022/04/Double-Arm-Dumbbell-Curl.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Leg Curl",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Leg-Curl.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     }
                 ]
             },
@@ -44,7 +50,8 @@
                     {
                         "title": "Dumbbell Romanian Deadlift",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Romanian-Deadlift.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Seated Row Machine",
@@ -54,17 +61,20 @@
                     {
                         "title": "Dumbbell Bench Press",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Press.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Lat Pull Down",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Lat-Pulldown.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Kettlebell Swing",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/09/Kettlebell-Swings.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     }
                 ]
             },
@@ -74,27 +84,32 @@
                     {
                         "title": "Single Leg Box Squat",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Pistol-Squat.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Dumbbell Lunge",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Lunge.gif",
-                        "video": "https://www.youtube.com/watch?v=GYDgwS1Nlvo"
+                        "video": "https://www.youtube.com/watch?v=GYDgwS1Nlvo",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Incline Push Up",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/06/Incline-Push-Up.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Inverted Row",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/06/Inverted-Row.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Triceps Pushdown Machine",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/09/Triceps-Dip-Machine.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     }
                 ]
             }
@@ -110,32 +125,38 @@
                     {
                         "title": "Dumbbell Goblet Squat",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2023/01/Dumbbell-Goblet-Squat.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Standing Dumbbell Shoulder Press",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2023/09/Standing-Dumbbell-Overhead-Press.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Dumbbell Row",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Row.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Push Up",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Push-Up.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Dumbbell Curl",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2022/04/Double-Arm-Dumbbell-Curl.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Leg Curl",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Leg-Curl.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     }
                 ]
             },
@@ -145,7 +166,8 @@
                     {
                         "title": "Dumbbell Romanian Deadlift",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Romanian-Deadlift.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Seated Row Machine",
@@ -155,17 +177,20 @@
                     {
                         "title": "Dumbbell Bench Press",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Press.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Lat Pull Down",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Lat-Pulldown.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Kettlebell Swing",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/09/Kettlebell-Swings.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     }
                 ]
             },
@@ -175,7 +200,8 @@
                     {
                         "title": "Single Leg Box Squat",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Pistol-Squat.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Dumbbell Lunge",
@@ -185,23 +211,26 @@
                     {
                         "title": "Incline Push Up",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/06/Incline-Push-Up.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Inverted Row",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/06/Inverted-Row.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Triceps Pushdown Machine",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/09/Triceps-Dip-Machine.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     }
                 ]
             }
         ]
     },
-      {
+    {
         "id": 3,
         "name": "İleri Seviye",
         "exercises": [
@@ -211,32 +240,38 @@
                     {
                         "title": "Dumbbell Goblet Squat",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2023/01/Dumbbell-Goblet-Squat.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Standing Dumbbell Shoulder Press",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2023/09/Standing-Dumbbell-Overhead-Press.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Dumbbell Row",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Row.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Push Up",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Push-Up.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Dumbbell Curl",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2022/04/Double-Arm-Dumbbell-Curl.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Leg Curl",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Leg-Curl.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     }
                 ]
             },
@@ -246,7 +281,8 @@
                     {
                         "title": "Dumbbell Romanian Deadlift",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Romanian-Deadlift.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Seated Row Machine",
@@ -256,17 +292,20 @@
                     {
                         "title": "Dumbbell Bench Press",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Press.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Lat Pull Down",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Lat-Pulldown.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Kettlebell Swing",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/09/Kettlebell-Swings.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     }
                 ]
             },
@@ -276,7 +315,8 @@
                     {
                         "title": "Single Leg Box Squat",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Pistol-Squat.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Dumbbell Lunge",
@@ -286,17 +326,20 @@
                     {
                         "title": "Incline Push Up",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/06/Incline-Push-Up.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Inverted Row",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/06/Inverted-Row.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     },
                     {
                         "title": "Triceps Pushdown Machine",
                         "image": "https://fitnessprogramer.com/wp-content/uploads/2021/09/Triceps-Dip-Machine.gif",
-                        "video": ""
+                        "video": "",
+                        "repeats":"3x12"
                     }
                 ]
             }
